@@ -9,5 +9,8 @@
 7. Run `python3 -m pip install poetry`
 
 # Run:
-- poetry run code-checker path/to/python_file.py
-- poetry run code-fixer path/to/python_file.py 
+
+- Run`source venv/bin/activate`
+- Run`poetry install`
+- `poetry run code-checker path/to/python_file.py`
+- `poetry run code-fixer path/to/python_file.py `
